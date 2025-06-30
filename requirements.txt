@@ -7,3 +7,4 @@ duckdb
 streamlit_option_menu
 pillow
 xlsxwriter
+snowflake
